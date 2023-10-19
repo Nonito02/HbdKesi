@@ -161,5 +161,29 @@ body {
     outline-color: #333;
     outline-style: dotted;
   }
+
+  @media (max-width: 768px) {
+ 
+    .happy {
+      font-size: 14px; /* Adjust the font size */
+      margin: 10px; /* Adjust the margin */
+    }
+    
+    p {
+      padding-top: 8%;
+      font-size: 12px; /* Adjust the font size */
+      margin: 10px; /* Adjust the margin */
+    }
+    
+    .name {
+      left: 100px; /* Adjust the position */
+    }
+    
+    .back {
+      font-size: 14px; /* Adjust the font size */
+      margin: 10px; /* Adjust the margin */
+    }
+  }
+  
   
   
